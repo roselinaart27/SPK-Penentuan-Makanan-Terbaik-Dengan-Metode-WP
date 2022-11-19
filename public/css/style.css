@@ -1,0 +1,13 @@
+a {
+    text-decoration: none;
+}
+
+.bg {
+    height: 100vh;
+    width: 100%;
+    background: #cfd6a2;
+}
+
+.header_button > a :hover {
+    color: #0d6efd;
+}
